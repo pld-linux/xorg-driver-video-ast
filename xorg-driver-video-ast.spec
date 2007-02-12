@@ -1,5 +1,5 @@
 Summary:	X.org video driver for AST video adapters
-Summary(pl.UTF-8):   Sterownik obrazu X.org do kart graficznych AST
+Summary(pl.UTF-8):	Sterownik obrazu X.org do kart graficznych AST
 Name:		xorg-driver-video-ast
 Version:	0.81.0
 Release:	0.1
