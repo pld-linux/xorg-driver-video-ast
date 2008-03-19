@@ -1,12 +1,12 @@
 Summary:	X.org video driver for AST video adapters
 Summary(pl.UTF-8):	Sterownik obrazu X.org do kart graficznych AST
 Name:		xorg-driver-video-ast
-Version:	0.81.0
+Version:	0.85.0
 Release:	1
 License:	MIT
 Group:		X11/Applications
 Source0:	http://xorg.freedesktop.org/releases/individual/driver/xf86-video-ast-%{version}.tar.bz2
-# Source0-md5:	04bc08907da13612dbc4918fe54e63e3
+# Source0-md5:	b415bf3259ad0acdaf62e3dde76e3289
 URL:		http://xorg.freedesktop.org/
 BuildRequires:	autoconf >= 2.57
 BuildRequires:	automake
