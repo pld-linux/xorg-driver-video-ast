@@ -1,12 +1,12 @@
 Summary:	X.org video driver for ASpeed Technologies video adapters
 Summary(pl.UTF-8):	Sterownik obrazu X.org do kart graficznych ASpeed Technologies
 Name:		xorg-driver-video-ast
-Version:	0.93.9
-Release:	4
+Version:	0.93.10
+Release:	1
 License:	MIT
 Group:		X11/Applications
 Source0:	http://xorg.freedesktop.org/releases/individual/driver/xf86-video-ast-%{version}.tar.bz2
-# Source0-md5:	e25c6a55e9d07cc6054d6affc1231296
+# Source0-md5:	de0bf8e0c8ab67be42c14f07ca427271
 URL:		http://xorg.freedesktop.org/
 BuildRequires:	autoconf >= 2.60
 BuildRequires:	automake
